@@ -1,0 +1,15 @@
+{
+  "name": "rovic",
+  "version": "1.0.0",
+  "description": "A Responsive Free One Page Portfolio Website template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.4.21"
+  }
+}
